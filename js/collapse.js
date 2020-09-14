@@ -1,6 +1,6 @@
 const contents = document.querySelectorAll('.js-more');
 const buttons = document.querySelectorAll('.js-btn-more');
-const maxHeight = 144;
+const maxHeight = 140;
 
 for (let i = 0; i < contents.length; i++) {
     let content = contents[i];
